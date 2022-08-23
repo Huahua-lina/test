@@ -1,4 +1,4 @@
-function DistBuild() {
+function DistName() {
 	return true
 }
-console.log(DistBuild())
+console.log(DistName())
