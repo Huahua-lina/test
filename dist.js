@@ -1,4 +1,4 @@
-function DistName() {
-	return true
+function DistBuild() {
+	return "hello world"
 }
-console.log(DistName())
+console.log(DistBuild())
