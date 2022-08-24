@@ -3,3 +3,8 @@ let devo2 = {
 	name: "青山",
 	branch: "dev02"
 }
+
+function Demo() {
+	return "你好啊"
+}
+console.log(Demo())
